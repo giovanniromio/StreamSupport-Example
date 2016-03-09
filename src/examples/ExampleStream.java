@@ -8,7 +8,12 @@ import java8.util.function.Predicate;
 import java8.util.stream.Stream;
 
 import static java8.util.stream.StreamSupport.stream;
-
+/**
+ * 
+ * @author Giovanni Romio
+ * Esempio di utilizzo di Stream della libreria StreamSupport compatibile con Java7
+ * Notare che non vengono utilizzate le lambda expression
+ */
 public class ExampleStream {
 	public static void main(String[] args) {
 
