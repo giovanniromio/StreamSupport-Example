@@ -7,5 +7,5 @@ Overview about a tipical Java 8 Stream with StreamSupport library
 ## Example LongStream
 Overview about a tipical Java 8 LonStream usage with StreamSupport Library
 
-## Example LongStream Anonimous
+## Example LongStream Anonimous Supplier & Consumer
 Overview about a Java 8 code snippet focusing on how .collect works
