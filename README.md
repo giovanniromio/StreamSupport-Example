@@ -1,7 +1,7 @@
 # StreamSupport-Example
 Usage example of StreamSupport library (https://sourceforge.net/projects/streamsupport/)
 
-Example Stream
+Example Stream \n
 -Overview about a tipical Java 8 Stream with StreamSupport library
 
 Example LongStream
