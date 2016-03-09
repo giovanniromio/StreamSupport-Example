@@ -1,11 +1,11 @@
-# StreamSupport-Example
+#H1 StreamSupport-Example
 Usage example of StreamSupport library (https://sourceforge.net/projects/streamsupport/)
 
-Example Stream \n
+#H2 Example Stream 
 -Overview about a tipical Java 8 Stream with StreamSupport library
 
-Example LongStream
+#H2 Example LongStream
 -Overview about a tipical Java 8 LonStream usage with StreamSupport Library
 
-Example LongStream Anonimous
+#H2 Example LongStream Anonimous
 -Overview about a Java 8 code snippet focusing on how .collect works
